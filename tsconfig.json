@@ -16,5 +16,5 @@
     "baseUrl": "src"
   },
   "exclude": ["node_modules"],
-  "include": ["next-env.d.ts", "custom.d.ts", "src/**/*.ts", "src/**/*.tsx", "src/helpers/nodemailer.js"]
+  "include": ["next-env.d.ts", "custom.d.ts", "src/**/*.ts", "src/**/*.tsx", "src/helpers/nodemailer.ts"]
 }
